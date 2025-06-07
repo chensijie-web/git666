@@ -5,5 +5,7 @@ public class test2 {
         System.out.println("你好，世界！");
 
         System.out.println("这是一个测试");
+
+        System.out.println("这是一个测试2");
     }
 }
